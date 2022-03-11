@@ -16,6 +16,8 @@ To determine if there is a bias towards favorable reviews from Vine members.
 * Deliverable 3: A Written Report on the Analysis (README.md).
 
 # Results:
+![](Images/vine1.png)
+![](Images/vine2.png)
 # Asks:
 ### * How many Vine reviews and non-Vine reviews were there?
 There was a total of 49  Vine-reviews.
